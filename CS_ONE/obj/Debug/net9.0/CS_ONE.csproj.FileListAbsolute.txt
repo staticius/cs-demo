@@ -1,0 +1,14 @@
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/bin/Debug/net9.0/CS_ONE
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/bin/Debug/net9.0/CS_ONE.deps.json
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/bin/Debug/net9.0/CS_ONE.runtimeconfig.json
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/bin/Debug/net9.0/CS_ONE.dll
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/bin/Debug/net9.0/CS_ONE.pdb
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/obj/Debug/net9.0/CS_ONE.GeneratedMSBuildEditorConfig.editorconfig
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/obj/Debug/net9.0/CS_ONE.AssemblyInfoInputs.cache
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/obj/Debug/net9.0/CS_ONE.AssemblyInfo.cs
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/obj/Debug/net9.0/CS_ONE.csproj.CoreCompileInputs.cache
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/obj/Debug/net9.0/CS_ONE.dll
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/obj/Debug/net9.0/refint/CS_ONE.dll
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/obj/Debug/net9.0/CS_ONE.pdb
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/obj/Debug/net9.0/CS_ONE.genruntimeconfig.cache
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/obj/Debug/net9.0/ref/CS_ONE.dll
