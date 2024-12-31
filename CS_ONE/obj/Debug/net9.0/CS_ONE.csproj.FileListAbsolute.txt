@@ -12,3 +12,4 @@
 /home/staticius/RiderProjects/CS_STUDY/CS_ONE/obj/Debug/net9.0/CS_ONE.pdb
 /home/staticius/RiderProjects/CS_STUDY/CS_ONE/obj/Debug/net9.0/CS_ONE.genruntimeconfig.cache
 /home/staticius/RiderProjects/CS_STUDY/CS_ONE/obj/Debug/net9.0/ref/CS_ONE.dll
+/home/staticius/RiderProjects/CS_STUDY/CS_ONE/obj/Debug/net9.0/CS_ONE.sourcelink.json
